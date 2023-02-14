@@ -9,7 +9,7 @@ package homework1;
 public class Task4 {
     public static void main(String[] args) {
 
-        String equation = "4? + ?5 = 69";
+        String equation = "2? + ?9 = 69";
         String[] mass = equation.split(" ");
 
         int y = Integer.parseInt(mass[4]);

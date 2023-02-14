@@ -23,17 +23,17 @@ public class Task1 {
         System.out.print("Введите число N ");
         Integer n = iScanner.nextInt();
         iScanner.close();
-        // int result = 1;        
+        int result = 1;        
         // for (int i = n; i > 1; i--) {
         //     result += i;
         // }
         // System.out.printf("Сумма чисел от 1 до %d = %d\n", n, result);
         System.out.printf("Сумма чисел от 1 до %d = %d\n", n, numtriangle(n));
-        // result = 1;
-        // for (int i = n; i > 1; i--) {
-        //     result *= i;
-        // }
-        // System.out.printf("Факториал числа %d = %d\n", n, result);
+        result = 1;
+        for (int i = n; i > 1; i--) {
+            result *= i;
+        }
+        System.out.printf("Факториал числа %d = %d\n", n, result);
 
         System.out.printf("Факториал числа %d = %d\n", n, factor(n));
     }

@@ -1,0 +1,126 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Task_1",
+            "request": "launch",
+            "mainClass": "homework2.Task_1",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001_stringsDemo",
+            "request": "launch",
+            "mainClass": "lesson_2.Ex001_stringsDemo",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex002_fileSystemDemo",
+            "request": "launch",
+            "mainClass": "lesson_2.Ex002_fileSystemDemo",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001_stringsDemo",
+            "request": "launch",
+            "mainClass": "lecture_2.Ex001_stringsDemo",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex003_tryDemo",
+            "request": "launch",
+            "mainClass": "lecture_2.Ex003_tryDemo",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex002_fileSystemDemo",
+            "request": "launch",
+            "mainClass": "lecture_2.Ex002_fileSystemDemo",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001_stringsDemo",
+            "request": "launch",
+            "mainClass": "Lesson_02.Ex001_stringsDemo",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task4",
+            "request": "launch",
+            "mainClass": "homework1.Task4",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "lecture_1.Test",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task1",
+            "request": "launch",
+            "mainClass": "homework1.Task1",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task2",
+            "request": "launch",
+            "mainClass": "homework1.Task2",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task3",
+            "request": "launch",
+            "mainClass": "homework1.Task3",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "lecture_1.Program",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Massiv",
+            "request": "launch",
+            "mainClass": "smnr_1.Massiv",
+            "projectName": "Java_Code_97d4184b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TaskClass",
+            "request": "launch",
+            "mainClass": "smnr_1.TaskClass",
+            "projectName": "Java_Code_97d4184b"
+        }
+    ]
+}

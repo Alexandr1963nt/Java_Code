@@ -11,7 +11,6 @@ public class Task_1For {
         int end = -1;
 
         for (int i = 1; i < strBuild.length() - 1; i++) {
-            zero = strBuild.charAt(i); // После убрать
             start = strBuild.charAt(i) == ' ' &
                     start < 0 &
                     strBuild.charAt(i + 1) == ' ' ? i + 1 : start;
